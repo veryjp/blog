@@ -1,7 +1,0 @@
-[build]
-  command = "pnpm install && pnpm docs:build"
-  publish = "docs/.vuepress/dist"
-
-[build.environment]
-  NODE_VERSION = "18"
-  PNPM_VERSION = "9"
