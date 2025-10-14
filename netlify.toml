@@ -3,6 +3,5 @@
   publish = "docs/.vuepress/dist"
 
 [build.environment]
-  NPM_FLAGS = "--version"
   NODE_VERSION = "18"
-  PNPM_VERSION = "9.7.0"
+  PNPM_VERSION = "9"
