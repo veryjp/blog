@@ -7,9 +7,9 @@ modules:
   - Footer
 bannerBrand:
   bgImage: '/bg.svg'
-  title: 弈晨随想
-  description: 今夕复何夕，共此明月光。
-  tagline: 。
+  title: 李老师小课堂
+  description: 某人天天说我小课堂，干脆写下来看个够。
+  # tagline: 
   # buttons:
   #   - { text: Guide, link: '/docs/guide/introduce' }
   #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }

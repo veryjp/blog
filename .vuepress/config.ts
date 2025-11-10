@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  title: "弈晨随想",
+  title: "李老师小课堂",
   description: "",
   bundler: viteBundler(),
   // bundler: webpackBundler(),
